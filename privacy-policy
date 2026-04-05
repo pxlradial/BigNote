@@ -1,1 +1,130 @@
 
+
+Privacy Policy for BigNote Large Text Editor
+
+BigNote is a local text editor for Android designed to open, edit, search, replace, sort, save, and extract content from text files, including very large files.
+
+Effective date: April 5, 2026
+
+
+
+
+
+1. Who we are
+
+This Privacy Policy applies to the Android application BigNote Large Text Editor.
+
+BigNote is published by the developer account used on Google Play for this application.
+
+Before publishing on Google Play, replace this GitHub support link with the real URL of your repository or issues page: https://github.com/pxlradial/BigNote/issues
+
+
+
+
+
+2. What data BigNote accesses
+
+BigNote may access the following data only when you use the related feature:
+
+    Files and folders you explicitly choose to open, read, edit, save, or export.
+    Basic file metadata needed for editing features, such as file name, size, encoding, and line count.
+    A local recent files list stored on your device for convenience.
+    Document access permissions granted by you through the Android system file picker, so the app can reopen selected files you chose to work with.
+
+
+
+
+
+3. What data BigNote collects
+
+BigNote does not create user accounts, does not use advertising SDKs, does not use analytics SDKs, and does not upload your text files to a remote server.
+
+The app is designed to work locally on your device. At the time of writing, the app does not request internet access for its core features.
+
+
+
+
+
+
+4. How your data is used
+
+Data accessed by the app is used only to provide the core text editor features you request, including:
+
+    Opening and displaying text files.
+    Editing, searching, replacing, sorting, cleaning, and navigating text.
+    Extracting matching lines into a new text file.
+    Saving or exporting files that you choose.
+    Showing recent files and basic file information on your device.
+
+
+
+
+
+
+5. Data sharing
+
+BigNote does not sell, rent, or share your personal data or file contents with third parties.
+
+If you distribute the app through Google Play, Google may process standard platform data related to downloads, updates, billing, or store operations under its own policies. That processing is outside the app itself.
+
+
+
+
+
+
+6. Data storage, retention, and deletion
+
+    Files you open or edit remain on your device unless you explicitly export or save them elsewhere.
+    The recent files list and certain local app settings are stored on your device for convenience.
+    Android may retain file access permissions for documents you selected through the system file picker until you remove app data, revoke permissions, or uninstall the app.
+    You can clear app data or uninstall the app to remove locally stored app data.
+    Because BigNote does not operate a user account backend, there is no remote profile or cloud account to delete.
+    Depending on your Android backup settings, some local app data may be included in system-managed backup or restore features provided by Android.
+
+
+
+
+
+
+7. Security
+
+BigNote is designed for local use. Reasonable care is taken to avoid unnecessary data transmission, and the app does not intentionally send your file contents to external servers.
+
+You remain responsible for the security of the files stored on your device and for where you choose to save exported files.
+
+
+
+
+
+
+8. Children
+
+BigNote is not specifically directed to children under 13. If you target children on Google Play, you must review your store listing and app compliance settings separately.
+
+
+
+
+
+
+9. Changes to this policy
+
+This Privacy Policy may be updated from time to time. Any update will be published on this page with a revised effective date.
+
+
+
+
+
+For privacy questions or requests, use the support or issues page for this app: https://github.com/pxlradial/BigNote/issues
+
+
+
+
+
+
+
+French Summary
+
+BigNote fonctionne localement sur l'appareil. L'application peut acceder uniquement aux fichiers que l'utilisateur choisit d'ouvrir, de modifier, de sauvegarder ou d'exporter. Elle ne cree pas de compte, n'envoie pas le contenu des fichiers vers un serveur distant, ne revend pas les donnees et stocke seulement une petite liste de fichiers recents, quelques preferences locales et les permissions de fichiers que l'utilisateur a choisies via le selecteur Android.
+
+@PxlRadial@
+
